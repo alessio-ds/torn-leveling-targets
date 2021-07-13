@@ -1,5 +1,5 @@
 # Torn Leveling Targets
-This tool allows you to search our faction database of 1800+ targets which are mostly inactive players, useful as leveling targets because we know their stats haven't changed from the original spy report.
+This tool allows you to search our database of 1800+ targets which are mostly inactive players, useful as leveling targets because we know their stats haven't changed from the original spy report.
 
 I coded it in Python (and compiled it into an exe), but at the moment I don't feel like sharing the database for free.
 
