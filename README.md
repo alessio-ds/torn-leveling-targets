@@ -25,7 +25,7 @@ It will ask for 3 things:
 
 - Quantity of targets to display
 
-- If you want to include active players
+- If you want to include active players (press enter to say NO)
 
 Depending on the quantity of targets you pick, it will take more or less time.
 
