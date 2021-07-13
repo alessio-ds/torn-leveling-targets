@@ -1,21 +1,25 @@
 # Torn Leveling Targets
 This tool allows you to search our faction database of 1800+ targets which are mostly inactive players, useful as leveling targets because we know their stats haven't changed from the original spy report.
 
+I coded it in Python (and compiled it into an exe), but at the moment I don't feel like sharing the database for free.
+
 ![](https://i.imgur.com/Uy2DPSN.png)
 
 
 # How to install:
 
-### **Python** # WILL UPLOAD THE PYTHON FILE IN THE FUTURE:
-You will need to install the [requests](https://pypi.org/project/requests/ "requests") library, by typing in your console:
 
-`pip install requests`
 
 ### **Windows**:
 **Download the latest build [here](https://github.com/alessio-ds/torn-leveling-targets/raw/main/TLT.exe)**
 
 I compiled it with [autopytoexe](https://pypi.org/project/auto-py-to-exe/).
 It will take some time to load (about 5 seconds).
+
+### **Python** (don't want to share at the moment, maybe in the future):
+You will need to install the [requests](https://pypi.org/project/requests/ "requests") library, by typing in your console:
+
+`pip install requests`
 
 
 # How to use:
